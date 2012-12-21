@@ -5,7 +5,7 @@ See YouTube - for video: http://youtu.be/3vRFFd-AGeU
 
 Home made Xmas tree using Adafruit's LED Strip: http://www.adafruit.com/products/306
 
-Lot's of credits for the code:
+Lots of credits for the code:
 * Ladyada - main driver, and some programs (https://github.com/adafruit/LPD8806)
 * Digital Misery/Sowbug - Program choosing (https://github.com/sowbug/G35Arduino & http://www.digitalmisery.com/projects/colornode/)
 * happyinmotion - simplex noise program (http://happyinmotion.livejournal.com/278357.html)
@@ -23,3 +23,4 @@ A9 - Toggle Random (changes program and variation randomly every couple of minut
 A10 - Toggle Off/On (really just sets lights to 0,0,0)
 
 ![Xmas](/MarkEMarkEMark/LEDStripMEO/blob/master/Images/Tree.jpg?raw=true "Tree Lights")
+(Not sure why GitHub insists on rotating this image!)
