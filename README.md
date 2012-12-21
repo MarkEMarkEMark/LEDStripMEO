@@ -15,12 +15,12 @@ Lots of credits for the code:
 Each program has multiple patterns, which are usually variations on the colour scheme.
 
 It requires push buttons to be wired up:
-A0 - Program +
-A1 - Program -
-A2 - Variation +
-A3 - Variation -
-A9 - Toggle Random (changes program and variation randomly every couple of minutes)
-A10 - Toggle Off/On (really just sets lights to 0,0,0)
+* A0 - Program +
+* A1 - Program -
+* A2 - Variation +
+* A3 - Variation -
+* A9 - Toggle Random (changes program and variation randomly every couple of minutes)
+* A10 - Toggle Off/On (really just sets lights to 0,0,0)
 
 ![Xmas](/MarkEMarkEMark/LEDStripMEO/blob/master/Images/Tree.jpg?raw=true "Tree Lights")
 (Not sure why GitHub insists on rotating this image!)
